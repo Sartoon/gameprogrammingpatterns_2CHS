@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T06:53:29.224Z" agent="5.0 (Windows)" etag="7d5OnTa_RSyeCrBRYwSe" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T06:55:52.224Z" agent="5.0 (Windows)" etag="gtqXlpmCTHTv9-InKTD1" version="13.6.6" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="2272" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -754,7 +754,7 @@
         <mxCell id="hfyf6MIkC0XUtVaPi2Dj-21" value="回到起点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFF99;fontSize=13;align=center;" vertex="1" parent="hfyf6MIkC0XUtVaPi2Dj-18">
           <mxGeometry x="130" y="320" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfyf6MIkC0XUtVaPi2Dj-22" value="因未能阻止敌人的进攻，地球即将沦陷。但是我们可以利用传送技术，给你提供2个选择" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="hfyf6MIkC0XUtVaPi2Dj-18">
+        <mxCell id="hfyf6MIkC0XUtVaPi2Dj-22" value="因未能阻止敌人的进攻，地球即将沦陷。紧急情况之下，我们动用传送门技术，可以将时间回滚。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="hfyf6MIkC0XUtVaPi2Dj-18">
           <mxGeometry x="65.625" y="90" width="618.75" height="86.25" as="geometry" />
         </mxCell>
         <mxCell id="hfyf6MIkC0XUtVaPi2Dj-23" value="重打本关" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFF99;fontSize=13;align=center;" vertex="1" parent="hfyf6MIkC0XUtVaPi2Dj-18">
